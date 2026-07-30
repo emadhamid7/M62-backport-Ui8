@@ -1,4 +1,4 @@
-name: Build ArtisanKRNL
+name: Build ExtremeKernel
 
 on:
   workflow_dispatch:
